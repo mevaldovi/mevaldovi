@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Marie</h1>
 <h3 align="center">Jr Software Engineer | Life Speaker 📢| Amateur Writer | Content Creator | Musician 🎹</h3>
 
