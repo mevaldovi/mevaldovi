@@ -8,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/mevaldov20" target="blank"><img src="https://img.shields.io/twitter/follow/mevaldov20?logo=twitter&style=for-the-badge" alt="mevaldov20" /></a> </p>
 
+- 😄 Pronouns: She / her / hers
+
 - 🔭 I’m currently working on [iMessage Clone](https://github.com/mevaldovi/iMessage-Clone-React)
 
 - 🌱 I’m currently learning **ChakraUI, MaterialUI, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
+- 👨‍💻 All of my featured projects are available at [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/tech-talk-6891552400495181824](https://www.linkedin.com/newsletters/tech-talk-6891552400495181824)
 
