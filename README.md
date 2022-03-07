@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI](https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI)
 
-- ⚡ Fun fact **I love watching action & documentaries**
+- ⚡ Fun fact **I love watching action & documentaries 🎥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
