@@ -10,7 +10,7 @@
 
 - 😄 Pronouns: She / her / hers
 
-- 🔭 I’m currently working on [iMessage Clone](https://github.com/mevaldovi/iMessage-Clone-React)
+- 🔭 I’m currently working on [Snake-and-Ladder](https://github.com/mevaldovi/Snake-And-Ladder)
 
 - 🌱 I’m currently learning **ChakraUI, MaterialUI, Firebase**
 
