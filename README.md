@@ -10,18 +10,22 @@
 
 - 😄 Pronouns: She / her / hers
 
-- 📣 Ask me about _content creation_, _how to start a newsletter_ && _growing your network!_ 
+- 📣 Ask me about `content creation`, `how to start a newsletter` && `growing your network!` 
 
 - 🔭 I’m currently working on [Eating-Snake-Game](https://github.com/mevaldovi/Eating-Snake-Game)
 
 - 🌱 I’m currently learning [<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/3/whatsnew/3.10.html)
-&& **`pipenv`**
+  &&   **`pipenv`**
 
 - 👨‍💻 All of my featured projects are available at [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/tech-talk-6891552400495181824](https://www.linkedin.com/newsletters/tech-talk-6891552400495181824)
 
-- 📫 How to reach me **mevaldovi@gmail.com**
+- 📫 How to reach me 
+
+-     - Email: **[mevaldovi@gmail.com]**(mailto:mevaldovi@gmail.com)
+
+      - LinkedIn: **[https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI](https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI)
 
