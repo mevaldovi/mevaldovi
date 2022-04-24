@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Marie</h1>
-<h3 align="center">Jr Software Engineer | Life Speaker 📢| Amateur Writer | Content Creator | Musician 🎹</h3>
+<h3 align="center">Jr Software Engineer | Life Speaker 📢| Amateur Writer | Content Creator | Musician 🎹 | Future DJ 🎧</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mevaldovi&label=Profile%20views&color=0e75b6&style=flat" alt="mevaldovi" /> </p>
 
