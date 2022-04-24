@@ -22,10 +22,8 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/tech-talk-6891552400495181824](https://www.linkedin.com/newsletters/tech-talk-6891552400495181824)
 
 - 📫 How to reach me 
-
--     - Email: **[mevaldovi@gmail.com]**(mailto:mevaldovi@gmail.com)
-
-      - LinkedIn: **[https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)**
+- Email: **mevaldovi@gmail.com**
+- LinkedIn: **[https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI](https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI)
 
