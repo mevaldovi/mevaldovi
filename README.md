@@ -4,9 +4,9 @@
 
 <p><a href="https://komarev.com/ghpvc/?username=mevaldovi&style=flat-square"><img src="https://komarev.com/ghpvc/?username=mevaldovi&style=flat-square" alt="mevaldovi" /></a></p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mevaldovi" alt="mevaldovi" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mevaldovi" alt="mevaldovi" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/mevaldov20" target="blank"><img src="https://img.shields.io/twitter/follow/mevaldov20?logo=twitter&style=for-the-badge" alt="mevaldov20" /></a></p>
+<p><a href="https://twitter.com/mevaldov20" target="blank"><img src="https://img.shields.io/twitter/follow/mevaldov20?logo=twitter&style=for-the-badge" alt="mevaldov20" /></a></p>
 
 - 😄 Pronouns: She / her / hers
 
@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on [Eating-Snake-Game](https://github.com/mevaldovi/Eating-Snake-Game)
 
 - 🌱 I’m currently learning [<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/3/whatsnew/3.10.html)
-  &&   **`pipenv`**
 
 - 👨‍💻 All of my featured projects are available at [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
 
@@ -45,17 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mevaldovi&show_icons=true&locale=en" alt="mevaldovi" /></p>
 
-<!--
-**mevaldovi/mevaldovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
