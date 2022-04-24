@@ -10,9 +10,12 @@
 
 - 😄 Pronouns: She / her / hers
 
+- 📣 Ask me about _content creation_, _how to start a newsletter_ && _growing your network!_ 
+
 - 🔭 I’m currently working on [Eating-Snake-Game](https://github.com/mevaldovi/Eating-Snake-Game)
 
-- 🌱 I’m currently learning **Python** && **`pipenv`**
+- 🌱 I’m currently learning [<img align="left" alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />]
+&& **`pipenv`**
 
 - 👨‍💻 All of my featured projects are available at [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
 
