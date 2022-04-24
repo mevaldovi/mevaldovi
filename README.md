@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Eating-Snake-Game](https://github.com/mevaldovi/Eating-Snake-Game)
 
-- 🌱 I’m currently learning **ChakraUI, MaterialUI, Firebase**
+- 🌱 I’m currently learning **Python** && **`pipenv`**
 
 - 👨‍💻 All of my featured projects are available at [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
 
