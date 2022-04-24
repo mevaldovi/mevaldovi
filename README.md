@@ -10,7 +10,7 @@
 
 - 😄 Pronouns: She / her / hers
 
-- 🔭 I’m currently working on [Snake-and-Ladder](https://github.com/mevaldovi/Snake-And-Ladder)
+- 🔭 I’m currently working on [Eating-Snake-Game](https://github.com/mevaldovi/Eating-Snake-Game)
 
 - 🌱 I’m currently learning **ChakraUI, MaterialUI, Firebase**
 
