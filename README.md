@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Marie</h1>
 <h3 align="center">Jr Software Engineer | Life Speaker 📢| Amateur Writer | Content Creator | Musician 🎹 | Future DJ 🎧</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mevaldovi" alt="mevaldovi" /></a> </p>
+<p><a href="https://komarev.com/ghpvc/?username=mevaldovi&style=flat-square"><img src="https://komarev.com/ghpvc/?username=mevaldovi&style=flat-square" alt="mevaldovi" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/mevaldov20" target="blank"><img src="https://img.shields.io/twitter/follow/mevaldov20?logo=twitter&style=for-the-badge" alt="mevaldov20" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mevaldovi" alt="mevaldovi" /></a></p>
+
+<p align="left"> <a href="https://twitter.com/mevaldov20" target="blank"><img src="https://img.shields.io/twitter/follow/mevaldov20?logo=twitter&style=for-the-badge" alt="mevaldov20" /></a></p>
 
 - 😄 Pronouns: She / her / hers
 
@@ -16,6 +18,8 @@
   &&   **`pipenv`**
 
 - 👨‍💻 All of my featured projects are available at [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
+
+- 🤔 I’m looking for help with `music production 🎧`
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/tech-talk-6891552400495181824](https://www.linkedin.com/newsletters/tech-talk-6891552400495181824)
 
