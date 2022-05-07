@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning [<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/3/whatsnew/3.10.html)
 
-- 👨‍💻 All of my featured projects are available at [https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app](https://my-professional-portfolio-x-dofk8i89f-mevaldovi.vercel.app)
+- 👨‍💻 All of my featured projects are available at [https://my-professional-portfolio-f8r5yz5mk-mevaldovi.vercel.app](https://my-professional-portfolio-f8r5yz5mk-mevaldovi.vercel.app)
 
 - 🤔 I’m looking for help with `music production 🎧`
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me 
 - Email: **mevaldovi@gmail.com**
-- LinkedIn: **[https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)**
+- LinkedIn: **[https://www.linkedin.com/in/marie-valdovinos](https://www.linkedin.com/in/marie-valdovinos)**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI](https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI)
 
