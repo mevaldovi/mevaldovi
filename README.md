@@ -12,7 +12,7 @@
 
 - 📣 Ask me about `content creation`, `how to start a newsletter` && `growing your network!` 
 
-- 🔭 I’m currently working on [Eating-Snake-Game](https://github.com/mevaldovi/Eating-Snake-Game)
+- 🔭 I’m currently working on [The-Snake-Game](https://github.com/mevaldovi/The-Snake-Game)
 
 - 🌱 I’m currently learning [<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/3/whatsnew/3.10.html)
 
