@@ -26,7 +26,7 @@
 - Email: **mevaldovi@gmail.com**
 - LinkedIn: **[https://www.linkedin.com/in/marie-valdovinos](https://www.linkedin.com/in/marie-valdovinos)**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI](https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI)
+- 📄 Read about my experiences [https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI](https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI)
 
 - ⚡ Fun fact **I love watching action & documentaries 🎥**
 
