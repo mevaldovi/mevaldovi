@@ -16,17 +16,16 @@
 
 - 🌱 I’m currently learning [<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/3/whatsnew/3.10.html)
 
-- 👨‍💻 All of my featured projects are available at [https://my-professional-portfolio-f8r5yz5mk-mevaldovi.vercel.app](https://my-professional-portfolio-f8r5yz5mk-mevaldovi.vercel.app)
-
+- 👨‍💻 All of my featured projects are available [here](https://my-professional-portfolio-hm7e5gi36-mevaldovi.vercel.app)
 - 🤔 I’m looking for help with `music production 🎧`
 
-- 📝 I regularly write articles on [https://www.linkedin.com/newsletters/tech-talk-6891552400495181824](https://www.linkedin.com/newsletters/tech-talk-6891552400495181824)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/newsletters/tech-talk-6891552400495181824)
 
 - 📫 How to reach me 
 - Email: **mevaldovi@gmail.com**
-- LinkedIn: **[https://www.linkedin.com/in/marie-valdovinos](https://www.linkedin.com/in/marie-valdovinos)**
+- LinkedIn: **[LinkedIn](https://www.linkedin.com/in/marie-valdovinos)**
 
-- 📄 Read about my experiences [https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI](https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI)
+- 📄 Read about my experiences [here](https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI)
 
 - ⚡ Fun fact **I love watching action & documentaries 🎥**
 
