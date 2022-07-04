@@ -21,13 +21,15 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/newsletters/tech-talk-6891552400495181824)
 
-- 📫 How to reach me 
-- Email: **mevaldovi@gmail.com**
-- LinkedIn: **[LinkedIn](https://www.linkedin.com/in/marie-valdovinos)**
+- 📫 How to reach me :
+      - Email: **mevaldovi@gmail.com**
+      - LinkedIn: **[LinkedIn](https://www.linkedin.com/in/marie-valdovinos)**
 
 - 📄 Read about my experiences [here](https://docs.google.com/document/d/1osEJBXoUH3Fd-1nd7xousUJQARunqOjvyyQJCtBStYI)
 
 - ⚡ Fun fact **I love watching action & documentaries 🎥**
+
+- 🎶 This is the kind of [music that I'm into](https://open.spotify.com/playlist/2BwcPUeirkNWs28wM6d7cf?si=05ceb420686549d3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
