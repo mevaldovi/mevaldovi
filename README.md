@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [The-Snake-Game](https://github.com/mevaldovi/The-Snake-Game)
 
-- 🌱 I’m currently learning [<img alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />](https://docs.python.org/3/whatsnew/3.10.html)
+- 🌱 I’m currently learning....TBA
 
 - 👨‍💻 All of my featured projects are available [here](https://my-professional-portfolio-hm7e5gi36-mevaldovi.vercel.app)
 - 🤔 I’m looking for help with `music production 🎧`
