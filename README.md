@@ -12,9 +12,8 @@
 
 - 📣 Ask me about `content creation`, `how to start a newsletter` && `growing your network!` 
 
-- 🔭 I’m currently working on [The-Snake-Game](https://github.com/mevaldovi/The-Snake-Game)
-
-- 🌱 I’m currently learning....TBA
+- 🔭 I’m currently working on [The Kbear Portfolio](https://github.com/mevaldovi/The-Snake-GameKbear-Portfolio-Template)
+- 🌱 I’m currently learning Ableton Live & any other programming languages/software platforms that follow
 
 - 👨‍💻 All of my featured projects are available [here](https://my-professional-portfolio-hm7e5gi36-mevaldovi.vercel.app)
 - 🤔 I’m looking for help with `music production 🎧`
