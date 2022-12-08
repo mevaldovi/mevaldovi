@@ -32,7 +32,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mevaldov20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mevaldov20" height="30" width="40" /></a>
+<a href="https://twitter.com/its_marie_vee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_marie_vee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marie valdovinos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marie valdovinos" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/marie valdovinos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marie valdovinos" height="30" width="40" /></a>
 </p>
