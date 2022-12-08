@@ -6,7 +6,7 @@
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mevaldovi" alt="mevaldovi" /></a></p>
 
-<p><a href="https://twitter.com/mevaldov20" target="blank"><img src="https://img.shields.io/twitter/follow/mevaldov20?logo=twitter&style=for-the-badge" alt="mevaldov20" /></a></p>
+<p><a href="https://twitter.com/its_marie_vee" target="blank"><img src="https://img.shields.io/twitter/follow/mevaldov20?logo=twitter&style=for-the-badge" alt="its_marie_vee" /></a></p>
 
 - 😄 Pronouns: She / her / hers
 
